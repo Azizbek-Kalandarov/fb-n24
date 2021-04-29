@@ -1,6 +1,7 @@
 body{
   margin: 0;
   padding: 0;
+  background-color: aqua;
 }
 
 .container{
@@ -8,5 +9,6 @@ body{
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
+
 }
 
